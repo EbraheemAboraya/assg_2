@@ -1,6 +1,7 @@
 require('dotenv').config();
 const mongoose=require("mongoose");
 const express = require("express");
+const cors = require('cors');
 const app = express();
 const {connectDB}=require("./dbmongoo/conncetdb");
 const port =process.env.PORT || 8080;
@@ -15,6 +16,7 @@ app.use((req, res, next) => {
     logger.info(`${req.method} ${req.path}`);
     next();
 });
+app.use(cors());
 app.use('/shelters',routerShelter);
 
 connectDB();
