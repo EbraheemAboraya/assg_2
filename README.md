@@ -7,9 +7,9 @@
 
 ### How can i get the code and run it :-
 
--: git clone https://github.com/EbraheemAboraya/assg_2.git,
--: npm i,
--: npm run dev,
+-1:     git clone https://github.com/EbraheemAboraya/assg_2.git,
+-2:     npm i,
+-3:     npm run dev,
 
 
 ### challenges faced :-
