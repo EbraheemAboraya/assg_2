@@ -10,7 +10,7 @@
 
 ### How can i get the code and run it :-
 
-- 1:   git clone https://github.com/EbraheemAboraya/assg_2.git,
+- 1:   git clone React https://github.com/EbraheemAboraya/assg_2.git,
 - 2:   npm i,
 - 3:   npm run dev,
 
