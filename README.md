@@ -21,9 +21,9 @@ React is an engaging and highly efficient library for building user interfaces. 
     
 ###for Root GetShelterById :-
 - this examples for some shelters :-  <Route path="/shelter/:shelterId" element={<GetShelterById />} />
-- http://localhost:5173/shelter/65c3af856b5ccbf11de1bc14,
-- http://localhost:5173/shelter/65c3af856b5ccbf11de1bc15,
-- http://localhost:5173/shelter/65e0634ef18fb7c425b573fe,
+- http://localhost:5173/shelter/65c3af856b5ccbf11de1bc14
+- http://localhost:5173/shelter/65c3af856b5ccbf11de1bc15
+- http://localhost:5173/shelter/65e0634ef18fb7c425b573fe
 
 
 
