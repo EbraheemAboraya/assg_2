@@ -6,9 +6,10 @@
 - This for my figma :- https://www.figma.com/file/rXn51C7Fb0vg9AUsDQY3MY/Untitled?type=design&node-id=0%3A1&mode=dev&t=IBmCtDu4BlcH2ykL-1,
 
 ###How can i get the code and run it :-
--1: git clone https://github.com/EbraheemAboraya/assg_2.git
--2: npm i
--3: npm run dev
+
+-1: git clone https://github.com/EbraheemAboraya/assg_2.git,
+-2: npm i,
+-3: npm run dev,
 
 
 ###challenges faced :-
